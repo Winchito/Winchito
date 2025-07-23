@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sebastián and I'm a GameDev/ Backend Developer from Colombia</h2>
+<h2 align="left">Hi 👋! My name is Sebastián and I'm a Game/Backend Developer from Colombia</h2>
 
 ###
 
