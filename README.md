@@ -47,14 +47,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Winchito&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/spartan89632-co">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=spartan89632-co&count=5" alt="Spotify recently played"  />
