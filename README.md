@@ -29,12 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/80787450?v=4"  />
-
-###
-
 <div align="left">
   <a href="https://www.hackerrank.com/profile/Winchito" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
@@ -46,6 +40,14 @@
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
   </a>
 </div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Winchito&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
 
 <div align="center">
   <a href="https://open.spotify.com/user/spartan89632-co">
