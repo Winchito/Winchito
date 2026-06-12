@@ -1,4 +1,4 @@
-<h2 align="center">Sebastián - Game/Backend Developer</h2>
+<h2 align="center">Game/Backend Developer</h2>
 
 <h3 align="center">Tech Stack:</h3>
 <h5 align="center">Programming Languages:</h5>
